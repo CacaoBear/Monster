@@ -14,53 +14,53 @@
   ],
    "packs": [
         {
-            "name": "module-creatures",
-            "label": "Module Creatures",
-            "path": "./packs/creatures.db",
+            "name": "bestiary-cr-0-1",
+            "label": "bestiary cr 0-1",
+            "path": "./packs/bestiary-cr-0-1",
             "entity": "Actor",
             "type": "Actor"
         },
         {
-            "name": "module-items",
-            "label": "Module Items",
-            "path": "./packs/items.db",
-            "entity": "Item",
-            "type": "Item"
+            "name": "bestiary-cr-2-3",
+            "label": "bestiary cr 2-3",
+            "path": "./packs/bestiary-cr-2-3",
+            "entity": "Actor",
+            "type": "Actor"
         },
         {
-            "name": "module-scenes",
-            "label": "Module Scenes",
-            "path": "./packs/scenes.db",
-            "entity": "Scene",
-            "type": "Scene"
+            "name": "bestiary-cr-4-5",
+            "label": "bestiary cr 4-5",
+            "path": "./packs/bestiary-cr-4-5",
+            "entity": "Actor",
+            "type": "Actor"
         },
         {
-            "name": "module-journal-entries",
-            "label": "Module Journal Entries",
-            "path": "./packs/journal-entries.db",
-            "entity": "JournalEntry",
-            "type": "JournalEntry"
+            "name": "bestiary-cr-6-7",
+            "label": "bestiary cr 6-7",
+            "path": "./packs/bestiary-cr-6-7",
+            "entity": "Actory",
+            "type": "Actor"
         },
         {
-            "name": "module-macros",
-            "label": "Module Macros",
-            "path": "./packs/macros.db",
-            "entity": "Macro",
-            "type": "Macro"
+            "name": "bestiary-cr-8-10",
+            "label": "bestiary cr 8-10",
+            "path": "./packs/bestiary-cr-8-10",
+            "entity": "Actor",
+            "type": "Actor"
         },
         {
-            "name": "module-roll-tables",
-            "label": "Module Roll Tables",
-            "path": "./packs/roll-tables.db",
-            "entity": "RollTable",
-            "type": "RollTable"
+            "name": "bestiary-cr-11-14",
+            "label": "bestiary cr 11-14",
+            "path": "./packs/bestiary-cr-11-14",
+            "entity": "Actor",
+            "type": "Actor"
         },
         {
-            "name": "module-playlists",
-            "label": "Module Playlists",
-            "path": "./packs/playlists.db",
-            "entity": "Playlist",
-            "type": "Playlist"
+            "name": "bestiary-cr-15-19",
+            "label": "bestiary cr 15-19",
+            "path": "./packs/bestiary-cr-15-19",
+            "entity": "Actor",
+            "type": "Actor"
         }
     ],
   "url": "This is auto replaced",
